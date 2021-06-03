@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The jovial marriner; or, The sea-mans renown. Sail forth bold sea-men, plough the liquid main, fear neither storms nor pirats, strive not for gain.  Whilst others sleep  at home in a whole skin, your brave adventures shall great honour win.  To the tune of, I am a jovial batchelor, &amp;c. / J.P.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43659</idno><idno type="EEBO-CITATION">489263235</idno>
+  <idno type="VID">208670</idno>
+  <idno type="EEBO-PROQUEST">2240883417</idno>
+  
+            <idno type="OCLC"> 489263235</idno>
+            <idno type="OCLC">ocn 489263235</idno>
+            <idno type="STC">Wing P2487</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208670)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The jovial marriner; or, The sea-mans renown. Sail forth bold sea-men, plough the liquid main, fear neither storms nor pirats, strive not for gain.  Whilst others sleep  at home in a whole skin, your brave adventures shall great honour win.  To the tune of, I am a jovial batchelor, &amp;c. / J.P.</title>
+                  <author>J. P.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Passenger on London-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1670-1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date range of publication suggested by Wing (2nd ed.).</note>
+                  <note>"With priviledge."</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:208670:1"/>
+            <pb facs="tcp:208670:2"/>
+            <head>The Jovial Marriner; OR, The Sea-mans Renown.</head>
+            <argument>
+               <l>Sail forth bold Sea-men, plough the Liquid Main,</l>
+               <l>Fear neither storms nor Pirats, strive for gain.</l>
+               <l>Whilst others sleep at home in a whole skin,</l>
+               <l>Your brave adventures shall great honour win.</l>
+            </argument>
+            <opener>To the Tune of, I am a Jovial Batchelor, &amp;c. J.P.</opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of sailing ships</figDesc>
+               </figure>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>
+                     <hi>I</hi> am a Jovial Marriner</l>
+                  <l>our calling is well known.</l>
+                  <l>We trade with many a Forreigner</l>
+                  <l>to purchase high renown,</l>
+                  <l>We serve our Country faithfully</l>
+                  <l>and bring home store of Gol<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</l>
+                  <l>We do our business manfully,</l>
+                  <l>for we are frée and bold:</l>
+                  <l>
+                     <hi>A Sea-man hath a valiant heart</hi>
+                  </l>
+                  <l>
+                     <hi>and bears a noble minde:</hi>
+                  </l>
+                  <l>
+                     <hi>He scorneth once to shrink or start,</hi>
+                  </l>
+                  <l>
+                     <hi>for any stormy wind.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>'Tis known what hardship we indure</l>
+                  <l>abroad upon the Seas:</l>
+                  <l>Whilst others sléep at home secure,</l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd spend their time in ease,</l>
+                  <l>We seldome dare lie down so rest</l>
+                  <l>lest danger should ensue:</l>
+                  <l>Our beads with care is sore opprest,</l>
+                  <l>beleeve me this is true,</l>
+                  <l>
+                     <hi>A Sea-man hath a valiant heart, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Cowardly spirit must not think</l>
+                  <l>to prove a Sea-man bold;</l>
+                  <l>For to be sure he may not shrink</l>
+                  <l>in dangers manifold:</l>
+                  <l>When Sea-fights happen on the Main,</l>
+                  <l>and dreadful Canons rore.</l>
+                  <l>Then an men fight or else be slain</l>
+                  <l>for we have no back door.</l>
+                  <l>
+                     <hi>A Sea-man hath, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>'Tis Sea-men stout that doth deser<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</l>
+                  <l>both honour and renown,</l>
+                  <l>In perils great we may not swerve</l>
+                  <l>though <hi>Neptune</hi> séem to frown:</l>
+                  <l>If once his curled front we spy</l>
+                  <l>drencht in the foamy brine;</l>
+                  <l>Then each man doth his busi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ess ply</l>
+                  <l>there's none that doth repine.</l>
+                  <l>
+                     <hi>A Sea-man hath, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When angry Billows brash the Skye,</l>
+                  <l>most hideous to behold,</l>
+                  <l>Then up our Ships are tost on hye,</l>
+                  <l>and with the waves are roull'd;</l>
+                  <l>When tempests fierce our sails doth tear</l>
+                  <l>and rends the Masts a sunder,</l>
+                  <l>O! then we have <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reat cause to fear</l>
+                  <l>or else it were a wonder.</l>
+                  <l>
+                     <hi>A Sea-man hath, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Great Rocks which lye amongst the waves</l>
+                  <l>doth thre<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ten us with dea<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h</l>
+                  <l>And many Sea-men finde their Graves</l>
+                  <l>in Sands which are ben<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>To sée the Masts of Ships appear,</l>
+                  <l>which hath been cast away,</l>
+                  <l>Would make a Land-man dye for fear,</l>
+                  <l>'tis best at home to stay.</l>
+                  <l>
+                     <hi>A Sea-man h<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th a valiant heart</hi>
+                  </l>
+                  <l>
+                     <hi>and bears a noble m<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nde:</hi>
+                  </l>
+                  <l>
+                     <hi>He scorneth once to shrink or start,</hi>
+                  </l>
+                  <l>
+                     <hi>for any stormy wind.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part, To the same Tune.</head>
+               <p>
+                  <figure>
+                     <figDesc>stock woodcut of couple on bed</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>BRave <hi>England</hi> hath been much inricht</l>
+                  <l>by Art of Navigation:</l>
+                  <l>Great store of wealth we home have fetcht</l>
+                  <l>tor to adorn our Nation:</l>
+                  <l>Our Merchants sti<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> we do supply</l>
+                  <l>with Traffick that is rare,</l>
+                  <l>Then Sea-men cast your caps on high</l>
+                  <l>we are without compare,</l>
+                  <l>
+                     <hi>A Sea-man hath a valiant heart,</hi>
+                  </l>
+                  <l>
+                     <hi>and bears a noble minde▪</hi>
+                  </l>
+                  <l>
+                     <hi>He scorneth once to slinch o<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> start</hi>
+                  </l>
+                  <l>
+                     <hi>for any stormy wind.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Who should the Ladies pallats pleale</l>
+                  <l>with Spices of the best?</l>
+                  <l>If Sea-men all should take their ease</l>
+                  <l>and stay at home to rest:</l>
+                  <l>Our Gallants they would finde a want</l>
+                  <l>of sil<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s to make them fine</l>
+                  <l>And tearing boyes no more would rant</l>
+                  <l>if once they wanted wine,</l>
+                  <l>
+                     <hi>A Sea-man hath, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Our Land it would in vaded be</l>
+                  <l>if Sea-men were not stout;</l>
+                  <l>We let our friends come in you see</l>
+                  <l>and keep our foes without;</l>
+                  <l>Our priviledge upon the Seas</l>
+                  <l>we bravely do maintain,</l>
+                  <l>And can enlarge it when we please</l>
+                  <l>in Royal <hi>Charles</hi> his Reign.</l>
+                  <l>
+                     <hi>A Sea-man hath, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Such Countries as do lie remote</l>
+                  <l>doth tremble at our fame:</l>
+                  <l>For we h<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve taught them all to note</l>
+                  <l>tis <hi>England</hi> bears the Name:</l>
+                  <l>In <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> parts where ere we come</l>
+                  <l>o<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>cur is well known,</l>
+                  <l>What ere they he they dare not mumm</l>
+                  <l>if we say all's our own,</l>
+                  <l>
+                     <hi>A Sea man hath, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When us our Ships with Merchandize</l>
+                  <l>are safely come to shore,</l>
+                  <l>No men like as under the Skies</l>
+                  <l>to drink, to sing, and rore▪</l>
+                  <l>Good wine and beer we freely toye,</l>
+                  <l>until the ground look blew:</l>
+                  <l>We value neither Turk nor Pope,</l>
+                  <l>we are a jovial crew,</l>
+                  <l>
+                     <hi>A Sea-man hath, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>We kiss our wives when we return,</l>
+                  <l>who long for us did w<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it:</l>
+                  <l>And he that <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ngle needs not mourn,</l>
+                  <l>he cannot want a mate.</l>
+                  <l>Young women still are wondrous kinde</l>
+                  <l>to Sea-men in their need;</l>
+                  <l>And sure if shews a courteous minde,</l>
+                  <l>to do a friendly deed,</l>
+                  <l>
+                     <hi>A S<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a man hath &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>With pretty curious dainty knacks,</l>
+                  <l>we please the females we<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>:</l>
+                  <l>We know what longing women lacks,</l>
+                  <l>most surely we can tell</l>
+                  <l>A Sea-man is a Cock oth' Game,</l>
+                  <l>Young Maidens finde it true:</l>
+                  <l>We never are so much to blame,</l>
+                  <l>to let them want their due.</l>
+                  <l>
+                     <hi>A Sea-man hath, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thus Gallant Sea-men I have spread</l>
+                  <l>abroad your high renown:</l>
+                  <l>Which shall survive when you are dead,</l>
+                  <l>and gain a lasting Crown;</l>
+                  <l>Your praise so future ages shall</l>
+                  <l>most gloriously appear,</l>
+                  <l>Then courage Noble Sea-men all</l>
+                  <l>'tis you I love most dear.</l>
+                  <l>
+                     <hi>A Sea-man hath a valiant heart</hi>
+                  </l>
+                  <l>
+                     <hi>and bears a noble minde:</hi>
+                  </l>
+                  <l>
+                     <hi>He s<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>orneth once to shrink or start,</hi>
+                  </l>
+                  <l>
+                     <hi>for any stormy wind.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for T. Passenger, on London-Bridge.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With priviledge.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </back>
+   </text>
+</TEI>
